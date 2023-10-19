@@ -3,3 +3,24 @@
   padding: 0%;
   box-sizing: border-box;
 }
+.Avatar {
+  display: flex;
+  background-color: #0055FF9E;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-direction: row;
+  font-size: 23px;
+}
+ img {
+  width: 200px;
+  height: 200px;
+  position: relative;
+
+ }
+ p {
+  left: 200%;
+  right: 100%;
+ }
+ .Iconos {
+  display: flex;
+ }
